@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+}
+
+.background{
+    background-image: url(BACKGROUND.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 45px;
+    border-radius: 20px;
+}
+
+.paragraph-list{
+    color: white;
+    text-align: left;
+}
+.profilepic{
+    clip-path: circle(32% at 50% 45%);
+    float: right;  
+    padding: 1em;
+}
+
+.blockquote{
+    color: white;
+    padding: 2em;
+}
+.blockquote-footer{
+    color: rgb(196, 190, 181);
+    padding-left: 42em;
+    text-shadow: blanchedalmond;
+}
+
+.video{
+    padding: 3em;
+    padding-left: 3em;
+    padding-top: 6em;
+}
+
+hr{
+    color: white;
+}
+
+.list-unstyled{
+    color: white;
+    padding: 1em;
+}
+.profilepic1{
+    float: left;
+    padding: 2em;
+    height: 70%;
+    border-radius: 25%;
+}
+
+h5{
+    color: white;
+    padding: 2em;
+}
+
+.elon-link{
+    text-align: center;
+    padding: 1cm;
+    margin: 1cm;
+}
+
+
+footer{
+    
+    overflow: hidden;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.copyright{
+    color: black;
+    text-decoration: none;
+    padding: 14px 20px;
+    float: right;
+}
+
